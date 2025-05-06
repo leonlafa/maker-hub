@@ -23,15 +23,14 @@ Resources indexed or linked from this hub often relate to:
 
 * **Hardware Design:**
     * [KiCad EDA](https://www.kicad.org/) (PCB Layout, Schematics, SPICE)
-    * [Onshape](https://www.onshape.com/) (3D CAD Modeling)
+    * [FreeCAD](https://www.freecad.org/) (Parametric 3D CAD Modeling)
 
 * **Simulation:**
-    * [Wokwi](https://wokwi.com/) (Microcontroller/Circuit Simulation)
     * [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) (Digital Logic Simulation)
-    * [ngspice](http://ngspice.sourceforge.net/) (SPICE Simulation Engine)
+    * [Ngspice](http://ngspice.sourceforge.net/) (SPICE Simulation Engine)
+    * [Wokwi](https://wokwi.com/) (Microcontroller/Circuit Simulation)
 
 * **Software Development:**
     * JavaScript
     * Python
     * C / C++
-
