@@ -1,25 +1,22 @@
 # maker-hub
 
-This repository is a resource hub and playground for makers using open source tools for **software development** and **hardware design** (like PCB layout and 3D modeling/printing). It serves as a portal linking resources to supplement your making.
+This repository is a resource hub and playground for makers who use open source tools for **software development**, **digital design & simulation** and **hardware fab** (like PCB layout and 3D modeling/printing). It serves as a portal linking resources to supplement your making.
 
 *(Note: This hub is under active development and content may be sparse for a while as resources are organised and added.)*
 
-## Core Resource Repositories
 
-This hub primarily points to these key areas:
+## Design, Sourcing & Manufacturing
 
-1.  **[maker-parts-catalog](https://github.com/leonlafa/maker-parts-catalog)**
-    * Curated index of electronic/hardware components with metadata & links
+* **[maker-parts-catalog](https://github.com/leonlafa/maker-parts-catalog)** - A catalog of electronic/hardware components with useful assets and datasheet links
+* **[maker-kicad-libs](https://github.com/leonlafa/maker-kicad-libs)** - Original KiCad symbols, footprints, 3D models for global library use
 
-2.  **[maker-kicad-libs](https://github.com/leonlafa/maker-kicad-libs)**
-    * Original KiCad symbols, footprints, 3D models for global library use
+## Learning & Educational Resources
 
-3.  **Projects & Examples**
-    * Standalone project repos - Links Coming Soon!
+* [sap1-logisim](https://github.com/leonlafa/sap1-logisim) - A simulation of a Simple-As-Possible (SAP) computer, implemented in Logisim Evolution.
+ 
+## Technologies 
 
-## Relevant Tools
-
-Resources indexed or linked from this hub often relate to:
+Resources linked from this hub often relate to:
 
 * **Hardware Design:**
     * [KiCad EDA](https://www.kicad.org/) (PCB Layout, Schematics, SPICE)
