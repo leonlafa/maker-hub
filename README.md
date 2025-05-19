@@ -28,6 +28,8 @@ Resources linked from this hub often relate to:
     * [Wokwi](https://wokwi.com/) (Microcontroller/Circuit Simulation)
 
 * **Software Development:**
-    * JavaScript
-    * Python
-    * C / C++
+    * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    * [Python](https://www.python.org/doc/)
+    * [C++](https://en.cppreference.com/w/cpp)
+    * [C](https://en.cppreference.com/w/c)
+
